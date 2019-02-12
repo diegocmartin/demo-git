@@ -1,5 +1,2 @@
 #Demo de Git
-Primer parrafo
-##encabezado de nivel 2
-otro parrafo mucho mas largo que el otro.
-otro m'as
+Se trata de una demo para conectar git por línea de comandos. Puedes consultar todo el proceso en mi artículo https://www.diegocmartin.com/tutorial-git/
